@@ -1,7 +1,7 @@
 {
   "name": "playwright-pom",
   "version": "1.0.0",
-  "description": "Projeto de testes Playwright utilizando o padrão Page Object Model (POM) para a aplicação TODO.",
+  "description": "Playwright test project demonstrating the Page Object Model (POM) pattern for a sample TODO application.",
   "scripts": {
     "test": "npx playwright test"
   },
